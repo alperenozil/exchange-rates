@@ -45,12 +45,13 @@ p {
 }
 
 .currency select {
-  padding: 10px 0px 10px 10px;
+  padding: 10px 10px 10px 10px;
   border-radius: 8px;
   border-color: transparent;
   background-color: #d3d3d3;
   color: #f4f4f4;
   outline: 0;
+  appearance: none;
 }
 
 .currency input {
